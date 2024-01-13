@@ -10,4 +10,5 @@ A special thanks to [Nitish Kumar](https://www.linkedin.com/in/nitish-kumar-516a
 
 Please find the solution links for the challenges below. Simply click on the links to access each solution.
 - [Challenge 1 - Stranger Things](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Stranger%20Things)
+- [Challenge 2 - 92.7 BIG FM radio network](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%202%20-%2092.7%20BIG%20FM%20radio%20network)
 
