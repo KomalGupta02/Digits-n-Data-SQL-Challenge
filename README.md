@@ -9,5 +9,5 @@ A special thanks to [Nitish Kumar](https://www.linkedin.com/in/nitish-kumar-516a
 ## 📚 Table of Contents
 
 Please find the solution links for the challenges below. Simply click on the links to access each solution.
-- [Challenge 1 - Stranger Things](https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Steve's%20Car%20Showroom)
+- [Challenge 1 - Stranger Things]([https://github.com/KomalGupta02/Steel-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Steve's%20Car%20Showroom](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Stranger%20Things)https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Stranger%20Things)
 
