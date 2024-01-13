@@ -1,4 +1,4 @@
-# Steel Data SQL Challenges
+# Digits n Data SQL Challenges
 
 This repository serves as the solutions for the challenges from the **[Digits n Data](https://www.linkedin.com/company/digits-n-data/)**. 
 
