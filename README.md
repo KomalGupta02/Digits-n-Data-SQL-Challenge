@@ -12,4 +12,5 @@ Please find the solution links for the challenges below. Simply click on the lin
 - [Challenge 1 - Stranger Things](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%201%20-%20Stranger%20Things)
 - [Challenge 2 - 92.7 BIG FM radio network](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%202%20-%2092.7%20BIG%20FM%20radio%20network)
 - [Challenge 3 - Ayodhya Ram Temple SQL Analysis](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%203%20-%20Ayodhya%20Ram%20Temple%20SQL%20Analysis)
+- [Challenge 4 - Valentine's Day Chocolate Sales](https://github.com/KomalGupta02/Digits-n-Data-SQL-Challenge/tree/main/Challenge%204%20-%20Valentine's%20Day%20Chocolate%20Sales)
 
